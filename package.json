@@ -1,0 +1,18 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "My own blog projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "lhs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "private": true
+}
